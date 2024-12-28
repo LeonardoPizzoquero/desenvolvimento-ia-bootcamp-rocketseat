@@ -4,5 +4,5 @@ Este projeto possuí conhecimentos obtidos pelo bootcamp da Rocketseat em desenv
 
 ## Módulos
 
-- Estatística para devs
+- [Estatística para devs](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_1)
 - Aplicando EDA com Pandas

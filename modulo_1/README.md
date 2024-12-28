@@ -1,4 +1,4 @@
-# Módulo 1 - Medidas, Dispersão, COrrelação e Gráficos
+# Módulo 1 - Medidas, Dispersão, Correlação e Gráficos
 
 O módulo 1 apresenta tópicos importantes sobre estatística, sendo explicados abaixo e aplicados na prática pelos scripts contidos em: main.ipynb 
 
