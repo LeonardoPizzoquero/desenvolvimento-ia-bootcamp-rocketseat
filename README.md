@@ -6,7 +6,8 @@ Este projeto possuí conhecimentos obtidos pelo bootcamp da Rocketseat em desenv
 
 - [Estatística para devs](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_1)
 - [Análise Exploratória de Dados](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_2)
-- [Aprendizado de Máquina](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_3)
-- [Algoritmos Supervisionados](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_4)
-- [Algoritmos Não Supervisionados](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_5)
-- [Ensemble de Modelos](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_6)
+- [Fundamentos do Aprendizado de Máquina](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_3)
+- [Aprendizado de Máquina](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_4)
+- [Algoritmos Supervisionados](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_5)
+- [Algoritmos Não Supervisionados](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_6)
+- [Ensemble de Modelos](https://github.com/LeonardoPizzoquero/desenvolvimento-ia-bootcamp-rocketseat/tree/main/modulo_7)
